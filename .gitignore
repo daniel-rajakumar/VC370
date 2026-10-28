@@ -1,0 +1,9 @@
+# Visual Studio and JetBrains files
+.vs/
+.idea/
+
+# Build output
+x64/
+VC370Assem/VC370Assem/assem
+
+.DS_Store

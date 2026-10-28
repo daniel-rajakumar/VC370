@@ -7,6 +7,8 @@
 
 A two-pass assembler and emulator for the VC370/Quack3200 instruction set. It parses `.asm` source, builds a symbol table, translates to machine code, and runs the program in a simple emulator.
 
+> **Academic integrity:** this was a project for my Software Design class. If you're taking that course, please don't copy it. Submitting it as your own work is an academic integrity violation.
+
 ## At a glance
 | Item | Details |
 | --- | --- |
